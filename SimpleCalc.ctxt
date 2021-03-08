@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=SimpleCalc
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ SimpleCalc\r\n
+comment2.params=
+comment2.target=void\ clrscr()
+comment3.params=
+comment3.target=void\ menu()
+comment4.params=temp
+comment4.target=void\ menuAgain(int)
+comment5.params=
+comment5.target=void\ inputStatic()
+comment6.params=
+comment6.target=void\ inputDynamic()
+comment7.params=
+comment7.target=void\ exitProgram()
+numComments=8
